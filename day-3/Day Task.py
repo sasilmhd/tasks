@@ -1,5 +1,4 @@
 Contact={}
-i=1
 while True:
     print("\n1. Add User\n2. Search By Name\n3. Update\n4. Delete\n5. List Sort\n6. Exit")
     x=int(input("Enter A number from 1 to 6: "))
